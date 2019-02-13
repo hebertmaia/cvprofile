@@ -6,12 +6,10 @@ body {
 }
 
 hr{
-  border-style: none;
-  border-top-style: dotted;
-  border-color: grey;
-  border-width: 5px;
-  width: 3%;der: 110px 30px 110px 30px;
-  margin: 50px auto 50px auto;
+  border-bottom: none;
+  border: dotted #EAF6F6 6px;
+  width: 4%;
+  margin: 100px auto;
 
 }
 h1 {
@@ -33,6 +31,10 @@ h3 {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
 
+}
+p{
+  line-height: 2;
+  
 }
 
 
@@ -67,14 +69,14 @@ margin: 100px 0;
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-  line-height: 2;
+  
 
 }
 
 .intro{
   width: 30%;
   margin: auto;
-  line-height: 2;
+ 
  
 
 }
