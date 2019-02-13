@@ -71,8 +71,7 @@ text-emphasis-position: below;
 
 .p{
   width: 30%;
-
-  text-align: center;
+  margin: auto;
   line-height: 2;
   color: #40514E;
 
