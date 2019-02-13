@@ -6,6 +6,7 @@ body {
 }
 
 hr{
+  border-top: none;
   border-bottom: none;
   border: dotted #EAF6F6 6px;
   width: 4%;
